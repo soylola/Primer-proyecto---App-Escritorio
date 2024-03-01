@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{777104C9-C252-4A9E-9168-48F2066E4A3E}</ProjectGuid>
+    <ProjectGuid>{34C384B3-7D11-48BC-BBF6-BA2A7F9313B9}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>MiPrimerAplicacion</RootNamespace>
-    <AssemblyName>MiPrimerAplicacion</AssemblyName>
+    <RootNamespace>AplicacionWindows2</RootNamespace>
+    <AssemblyName>AplicacionWindows2</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -65,7 +65,6 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -79,15 +78,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\WhatsApp_Image_2023-12-22_at_21.01.56-removebg-preview.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\wp11973487-real-madrid-vs-liverpool-wallpapers.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\WhatsApp Image 2023-09-12 at 21.03.56.jpeg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

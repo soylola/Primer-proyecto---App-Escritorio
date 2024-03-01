@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MiPrimerAplicacion.Properties
+namespace AplicacionWindows2.Properties
 {
 
 

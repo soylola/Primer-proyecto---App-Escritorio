@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("MiPrimerAplicacion")]
+[assembly: AssemblyTitle("AplicacionWindows2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("EXO S.A.")]
-[assembly: AssemblyProduct("MiPrimerAplicacion")]
+[assembly: AssemblyProduct("AplicacionWindows2")]
 [assembly: AssemblyCopyright("Copyright © EXO S.A. 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("777104c9-c252-4a9e-9168-48f2066e4a3e")]
+[assembly: Guid("34c384b3-7d11-48bc-bbf6-ba2a7f9313b9")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //
